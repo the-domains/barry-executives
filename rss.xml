@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Barry Executives]]></title>
         <description><![CDATA[Barry Executives]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/barry-executives/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 11:57:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 12:15:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/barry-executives/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[What a start to 2016]]></title>
-            <description><![CDATA[<article><h1>What a start to 2016</h1><p>xzfdzfvsghK~JhglGAflgdslfgKLJGSDKFJGSFJKGHLJWEGKJWEGRWEW</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2532afa-53e2-4ff8-831b-3346c0816471.jpg"></article>]]></description>
-            <link>undefinedwhat-a-start-to-2016/index.html</link>
+            <title><![CDATA[Head of Building Services-UK]]></title>
+            <description><![CDATA[<article><h1>Head of Building Services-UK</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d27b6cdb683615588ae7f4db37f6ac3ab570c34.jpg"></article>]]></description>
+            <link>https://thegrid.ai/barry-executives/what-a-start-to-2016/index.html</link>
             <guid isPermaLink="false">de51c647-1669-4a93-913c-830b04246c8c</guid>
-            <pubDate>Mon, 07 Mar 2016 11:55:56 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 12:15:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
