@@ -1,7 +1,7 @@
 name: Barry Executives
 favicon: null
-layout_spectrum: 0.25271
-typography_spectrum: 0.71411
+layout_spectrum: 0.50921
+typography_spectrum: 1
 title: null
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#71965c'
     - '#68cefe'
     - '#0d381a'
-  brandStrength: 0.75
+  brandStrength: 0.8125
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.75
