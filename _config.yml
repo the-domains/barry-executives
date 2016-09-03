@@ -1,20 +1,4 @@
-name: Barry Executives
-favicon: null
-layout_spectrum: 0.74592
 typography_spectrum: 0.6709
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fefff7'
@@ -26,4 +10,20 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74592
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Barry Executives
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: placements through partnerships
 purpose: []
