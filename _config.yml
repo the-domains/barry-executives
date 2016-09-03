@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: ABOUT US(like you really care)
+    id: 333e6963-1c35-4730-bbaa-bba490d712f1
+    type: content
 favicon: null
 title: placements through partnerships
 purpose: []
