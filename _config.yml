@@ -25,7 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: ABOUT US(like you really care)
+  - name: >-
+      ABOUT US(like you really care. Just get me a great job, great money &
+      career prospects, or the partner will leave me,.... fact....)
     id: 333e6963-1c35-4730-bbaa-bba490d712f1
     type: content
 favicon: null
