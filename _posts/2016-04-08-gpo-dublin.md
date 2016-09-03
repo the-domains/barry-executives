@@ -1,15 +1,13 @@
 ---
-datePublished: '2016-09-01T08:10:33.802Z'
+datePublished: '2016-09-01T08:10:54.235Z'
 sourcePath: _posts/2016-04-08-gpo-dublin.md
 isBasedOnUrl: 'https://www.flickr.com/photos/94563458@N02/25299411664/in/dateposted/'
 keywords: []
 related: []
-author:
-  - name: '"Classic - Bobby"'
-    url: 'https://www.flickr.com/photos/94563458@N02/'
-    avatar: {}
-dateModified: '2016-09-01T08:10:33.163Z'
-title: GPO Dublin
+author: []
+via: {}
+dateModified: '2016-09-01T08:10:53.823Z'
+title: ''
 app_links:
   - url: 'flickr://flickr.com/photos/94563458@N02/25299411664'
     type: ios
@@ -22,7 +20,6 @@ publisher:
   favicon: 'https://www.flickr.com/favicon.ico'
   domain: www.flickr.com
 description: ''
-via: {}
 starred: false
 inFeed: true
 hasPage: false
