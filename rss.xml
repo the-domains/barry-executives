@@ -4,7 +4,7 @@
         <description><![CDATA[placements through partnerships]]></description>
         <link>https://thegrid.ai/barry-executives/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 08:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 08:36:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/barry-executives/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABOUT US]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/barry-executives/about-us/index.html</link>
             <guid isPermaLink="false">333e6963-1c35-4730-bbaa-bba490d712f1</guid>
             <pubDate>Wed, 31 Aug 2016 20:13:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reflecting the Rising Easter Monday O'Connell Street, Dublin]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b05d2f1663d7b1adf7b9bc9a4dc56ee7909e026.jpg">]]></description>
+            <link>https://www.flickr.com/photos/94563458@N02/26071430801/in/dateposted/</link>
+            <guid isPermaLink="false">dc9ef635-b87a-44d0-94fd-b2f46da2223c</guid>
+            <pubDate>Thu, 01 Sep 2016 08:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rain on the way]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ee5f4ef00a7d7b1eb5eb7695a93e7598d9d8263.jpg">]]></description>
+            <link>https://www.flickr.com/photos/94563458@N02/26120356965/in/dateposted/</link>
+            <guid isPermaLink="false">e0e69f27-1fa2-45e1-87f1-e88a9ebb8099</guid>
+            <pubDate>Thu, 01 Sep 2016 08:36:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Custom House Dublin Easter Sunday morning]]></title>
@@ -53,20 +67,6 @@
             <description><![CDATA[<article><h1>Mary St. Dublin</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b665bf2e496a6027d705e46f60cc8ca3f028556b.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/94563458@N02/25689093284/in/dateposted/</link>
             <guid isPermaLink="false">a32ff755-eb81-4910-bed2-7b90f646fda7</guid>
-            <pubDate>Fri, 08 Apr 2016 08:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reflecting the Rising Easter Monday O'Connell Street, Dublin]]></title>
-            <description><![CDATA[<article><h1>Reflecting the Rising Easter Monday O'Connell Street, Dublin</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b05d2f1663d7b1adf7b9bc9a4dc56ee7909e026.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/94563458@N02/26071430801/in/dateposted/</link>
-            <guid isPermaLink="false">dc9ef635-b87a-44d0-94fd-b2f46da2223c</guid>
-            <pubDate>Fri, 08 Apr 2016 08:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rain on the way]]></title>
-            <description><![CDATA[<article><h1>Rain on the way</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ee5f4ef00a7d7b1eb5eb7695a93e7598d9d8263.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/94563458@N02/26120356965/in/dateposted/</link>
-            <guid isPermaLink="false">e0e69f27-1fa2-45e1-87f1-e88a9ebb8099</guid>
             <pubDate>Fri, 08 Apr 2016 08:22:34 GMT</pubDate>
         </item>
     </channel>
