@@ -1,14 +1,21 @@
 ---
-datePublished: '2016-09-01T08:38:59.146Z'
+datePublished: '2016-09-01T08:39:22.128Z'
 sourcePath: _posts/2016-03-16-head-of-department-mechanical-building-services-midlands.md
 author: []
 via: {}
-dateModified: '2016-09-01T08:38:58.258Z'
-title: ''
+dateModified: '2016-09-01T08:39:21.679Z'
+title: 'Head of Department - Mechanical Building Services - Midlands, UK'
 publisher:
   domain: www.linkedin.com
   name: linkedin.com
-description: 'Head of Department - Mechanical Building Services - Midlands, UK'
+description: >-
+  Barry Executives have been appointed to find a Head of Department - Mechanical
+  Building Servicesfor our client in the UK, their midlands Office. This role
+  will cover all aspects of Mechanical Building Services across the UK
+  operation. The role will require flexibility in relation to travel both inside
+  and outside the UK as required. This is a senior role, requiring the ability
+  to inspire confidence from the taking of a client brief through proposal
+  preparation and design execution.
 starred: false
 inFeed: true
 hasPage: true
@@ -18,7 +25,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Head of Department - Mechanical Building Services - Midlands, UK
+## Head of Department - Mechanical Building Services - Midlands, UK
 
 _**Barry Executives**_ have been appointed to find a _**Head of Department - Mechanical Building Services**_for our client in the UK, their midlands Office. This role will cover all aspects of Mechanical Building Services across the UK operation. The role will require flexibility in relation to travel both inside and outside the UK as required. This is a senior role, requiring the ability to inspire confidence from the taking of a client brief through proposal preparation and design execution.
 
