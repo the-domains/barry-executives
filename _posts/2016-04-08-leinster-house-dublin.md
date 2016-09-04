@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T07:54:23.753Z'
+datePublished: '2016-09-01T12:35:22.122Z'
 sourcePath: _posts/2016-04-08-leinster-house-dublin.md
 inFeed: true
 isBasedOnUrl: 'https://www.flickr.com/photos/94563458@N02/25303406233/in/dateposted/'
@@ -9,7 +9,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-01T07:54:22.834Z'
+dateModified: '2016-09-01T12:35:21.625Z'
 title: ''
 app_links:
   - url: 'flickr://flickr.com/photos/94563458@N02/25303406233'
@@ -17,11 +17,7 @@ app_links:
     namespace: ai
     app_name: Flickr
     app_store_id: '328407587'
-publisher:
-  name: Flickr
-  domain: www.flickr.com
-  url: 'https://www.flickr.com/'
-  favicon: 'https://www.flickr.com/favicon.ico'
+publisher: {}
 description: ''
 inLanguage: null
 inNav: false
